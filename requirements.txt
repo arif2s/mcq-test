@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+tiktoken
+docling
+tantivy
+pymupdf
+pywebview
+jinja2
+pydantic
